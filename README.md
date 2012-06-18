@@ -20,7 +20,7 @@ for my add-on):
 
 	
 	local PlayerAreaID = GetCurrentMapAreaID();
-	local PlayerLocation = Zones[PlayerAreaID];
+	local PlayerLocation = AreaIDs[PlayerAreaID];
 
 So we first get the integer value of where the player is located; be it in a city, region, dungeon or pvp-battlefield, etc.
 Let's say the value of `749` is returned from `GetCurrentMapAreaID()`. When we index into the array with this value on
