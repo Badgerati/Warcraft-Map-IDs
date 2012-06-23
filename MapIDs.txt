@@ -144,6 +144,7 @@ AreaIDs = {
 	[725] = "The Blood Furnace",
 	[726] = "The Underbog",
 	[727] = "The Steamvault",
+	[728] = "The Slave Pens",
 	[729] = "The Botanica",
 	[730] = "The Mechanar",
 	[731] = "The Arcatraz",
@@ -185,5 +186,6 @@ AreaIDs = {
 	[816] = "Well of Eternity",
 	[819] = "Hour of Twilight",
 	[820] = "End Time",
+	[824] = "Dragon Soul",
 	[876] = "GM Island"
 };
